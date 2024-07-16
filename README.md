@@ -6,3 +6,4 @@ all the packages for the server development
 npm init -y
 npm i nodemon cors dotenv passport passport-google-oauth20 cookie-session (change in the script at package.json to start:"nodemo server.js")
 ```
+background snippets https://bg.ibelick.com/
