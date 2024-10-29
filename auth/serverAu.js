@@ -7,6 +7,7 @@ const cookieSession = require("cookie-session");
 const passportStrategy = require("./passport");
 const app = express();
 
+//exapmle of passport
 app.use(
 	cookieSession({
 		name: "session",
